@@ -1,0 +1,529 @@
+[
+  {
+    "id": 1,
+    "type": "hero",
+    "kicker": "APRESENTAÇÃO PARA A DIRETORIA",
+    "title": "A plataforma da Place, do lead às chaves",
+    "description": "Site, corretor, gerente e diretoria num lugar só, feito no processo da Place.",
+    "tag": "PROJETO INTEGRADOR • UNICAP • NOVEMBRO DE 2026",
+    "narration": "Bom dia! Hoje vamos apresentar uma plataforma desenvolvida especialmente para a Place Brokers. A proposta é conectar o caminho completo do cliente, do primeiro contato pelo site até a venda confirmada. Tudo em um só lugar, respeitando a forma como a Place já trabalha. Ao longo desta apresentação, vamos mostrar o problema atual, a solução, os resultados do protótipo e os próximos passos.",
+    "footnote": "João Victor Varela · Arthur Vinícius · Gabriel Soares · Sérgio Bandeira · Sofia Viana"
+  },
+  {
+    "id": 2,
+    "type": "problems",
+    "kicker": "HOJE",
+    "title": "A Place vende muito, mas o caminho do lead é manual",
+    "description": "No imóvel, quem retorna primeiro leva o cliente. Cada passo manual é tempo perdido.",
+    "cards": [
+      {
+        "icon": "◉",
+        "title": "Lead espalhado",
+        "text": "Anúncio, site e indicação chegam por canais diferentes."
+      },
+      {
+        "icon": "♧",
+        "title": "Fila no caderno",
+        "text": "A ordem de chegada é anotada à mão e repassada no Domus."
+      },
+      {
+        "icon": "▣",
+        "title": "Book no grupo",
+        "text": "Tabelas e books circulam no WhatsApp e ficam desatualizados."
+      },
+      {
+        "icon": "▥",
+        "title": "VGV em planilha",
+        "text": "A diretoria espera o Excel para saber como está o mês."
+      }
+    ],
+    "narration": "A Place já vende muito, mas vários passos da operação ainda dependem de tarefas manuais. Os leads chegam por anúncios, site e indicações; a fila de atendimento é anotada no caderno; books e tabelas circulam em grupos; e o valor geral de vendas depende de planilhas. Cada transferência de informação cria uma oportunidade de atraso. No mercado imobiliário, o tempo até o primeiro contato pode definir quem fica com o cliente."
+  },
+  {
+    "id": 3,
+    "type": "flow",
+    "kicker": "A SOLUÇÃO",
+    "title": "Um caminho só, do anúncio à venda confirmada",
+    "description": "Site, painéis e aplicativo usam a mesma base. O que o corretor registra aparece para o gerente.",
+    "steps": [
+      {
+        "name": "Site",
+        "text": "O cliente acha o imóvel e deixa o contato."
+      },
+      {
+        "name": "Roleta",
+        "text": "Distribui pela ordem de chegada e pelo foco."
+      },
+      {
+        "name": "Corretor",
+        "text": "Recebe no e-mail, no sino e no celular."
+      },
+      {
+        "name": "Gerente",
+        "text": "Vê quem está parado e redistribui."
+      },
+      {
+        "name": "Diretoria",
+        "text": "VGV, funil e origem dos leads na hora."
+      }
+    ],
+    "narration": "A solução conecta cinco etapas. Primeiro, o site apresenta o imóvel e recebe o contato do cliente. Em seguida, uma roleta de distribuição organiza os leads por ordem de chegada e foco da equipe. O corretor recebe o contato e pode agir pelo celular. O gerente acompanha a operação e identifica atendimentos parados. Finalmente, a diretoria visualiza o funil, a origem dos leads e o VGV confirmado. Tudo trabalha sobre a mesma base de dados."
+  },
+  {
+    "id": 4,
+    "type": "client",
+    "kicker": "PARA O CLIENTE",
+    "title": "Um site que vende e capta",
+    "description": "Vitrine imobiliária com a marca da Place em primeiro lugar.",
+    "cards": [
+      {
+        "icon": "⌂",
+        "title": "Vitrine por perfil",
+        "text": "MCMV, médio e alto padrão, litoral e prontos. 55 empreendimentos no ar."
+      },
+      {
+        "icon": "▤",
+        "title": "Página por imóvel",
+        "text": "Fotos, preço e mapa. Aparece no Google e gera prévia com foto no WhatsApp."
+      },
+      {
+        "icon": "◇",
+        "title": "Prontos e seminovos",
+        "text": "Portfólio da Place e formulário para o dono vender o imóvel com a gente."
+      },
+      {
+        "icon": "★",
+        "title": "Prova social real",
+        "text": "R$ 142 mi no semestre, nota 4,9 no Google, prêmios e clientes."
+      },
+      {
+        "icon": "◎",
+        "title": "LGPD desde o início",
+        "text": "Autorização salva em cada lead e política de privacidade publicada."
+      },
+      {
+        "icon": "◆",
+        "title": "Marca em primeiro lugar",
+        "text": "Logo grande e animado no topo, como a diretoria pediu."
+      }
+    ],
+    "narration": "Para o cliente, a plataforma oferece um site que apresenta a Place com protagonismo. Há vitrines organizadas por perfil, páginas individuais para os imóveis e divulgação de prontos e seminovos. O material também destaca a prova social da empresa, com os números informados pela Place, e o cuidado com a LGPD desde o primeiro contato. A ideia é captar oportunidades sem perder a identidade da marca."
+  },
+  {
+    "id": 5,
+    "type": "broker",
+    "kicker": "PARA O CORRETOR",
+    "title": "Nenhum lead esquecido, nenhum book perdido",
+    "description": "Tudo o que o corretor precisa para atender rápido, no computador e no celular.",
+    "cards": [
+      {
+        "icon": "⚡",
+        "title": "Novo lead",
+        "text": "Aviso por e-mail, no sino do site e no celular."
+      },
+      {
+        "icon": "◉",
+        "title": "Contato em um toque",
+        "text": "Ligar ou chamar no WhatsApp com mensagem pronta."
+      },
+      {
+        "icon": "◷",
+        "title": "Agenda de visitas",
+        "text": "Acompanhar visitas e receber lembretes de retorno."
+      },
+      {
+        "icon": "▣",
+        "title": "Catálogo atualizado",
+        "text": "Book e tabela na versão mais recente."
+      }
+    ],
+    "narration": "Na rotina do corretor, o principal ganho é a agilidade. Um novo lead pode gerar aviso por e-mail e pelo sistema. Com um toque, o corretor pode ligar ou iniciar uma conversa no WhatsApp. A plataforma também organiza visitas, lembretes e acesso a books e tabelas atualizadas. Assim, a equipe passa menos tempo procurando informação e mais tempo atendendo clientes."
+  },
+  {
+    "id": 6,
+    "type": "dashboard",
+    "kicker": "PARA GERENTES E DIRETORIA",
+    "title": "O mês na tela, sem pedir planilha",
+    "description": "O gerente age no mesmo dia. A diretoria acompanha por equipe e por diretoria.",
+    "cards": [
+      {
+        "icon": "♧",
+        "title": "Roleta do dia",
+        "text": "Ordem de chegada e foco da equipe."
+      },
+      {
+        "icon": "⌕",
+        "title": "Leads da equipe",
+        "text": "Tempo de resposta e redistribuição."
+      },
+      {
+        "icon": "◈",
+        "title": "VGV confirmado",
+        "text": "O corretor registra e o gerente confirma."
+      },
+      {
+        "icon": "▥",
+        "title": "Dashboard",
+        "text": "Funil, origem dos leads e relatórios."
+      }
+    ],
+    "narration": "O painel da gerência permite entender a operação enquanto ela acontece. A roleta mostra a ordem de chegada, e o gerente acompanha os leads, o tempo de resposta e a necessidade de redistribuição. O VGV é registrado pelo corretor e confirmado pelo gerente. Para a diretoria, a proposta é visualizar essas informações em dashboards e relatórios, sem depender de uma nova planilha a cada reunião. Os gráficos desta demonstração usam dados ilustrativos."
+  },
+  {
+    "id": 7,
+    "type": "stats",
+    "kicker": "NÃO É PROJETO NO PAPEL",
+    "title": "Já está no ar e já foi testado",
+    "description": "Aprovado na apresentação ao Bruno, gerentes já testando e anotando casos de uso, e aprovado pelo professor do Projeto Integrador.",
+    "stats": [
+      {
+        "value": "55",
+        "label": "empreendimentos publicados no site"
+      },
+      {
+        "value": "470+",
+        "label": "testes automáticos rodando a cada mudança"
+      },
+      {
+        "value": "4",
+        "label": "áreas: site, corretor, gerente e diretoria, mais o app"
+      },
+      {
+        "value": "0",
+        "prefix": "R$ ",
+        "label": "custo para a Place construir este protótipo"
+      }
+    ],
+    "narration": "Este projeto já tem uma base real. Segundo o material apresentado, são cinquenta e cinco empreendimentos publicados, mais de quatrocentos e setenta testes automáticos a cada mudança e quatro áreas integradas, além do aplicativo. O protótipo foi construído sem custo para a Place. Ele também já foi apresentado ao Bruno, e os gerentes vêm testando e anotando situações de uso. Isso reduz o risco de iniciar a fase oficial."
+  },
+  {
+    "id": 8,
+    "type": "grid",
+    "kicker": "DIFERENCIAIS",
+    "title": "O que um sistema de prateleira não entrega",
+    "description": "Desenvolvido para acompanhar a operação real da Place.",
+    "cards": [
+      {
+        "icon": "♧",
+        "title": "No processo da Place",
+        "text": "Roleta por chegada e foco, diretorias e VGV confirmado pelo gerente."
+      },
+      {
+        "icon": "⚡",
+        "title": "Tudo conectado",
+        "text": "O lead do site chega ao celular do corretor e ao painel do gerente na hora."
+      },
+      {
+        "icon": "▥",
+        "title": "Gestão na hora",
+        "text": "O gerente vê quem está parado e redistribui o lead no mesmo dia."
+      },
+      {
+        "icon": "◈",
+        "title": "Dados da Place",
+        "text": "Contas, banco e domínio no nome da empresa, com licença permanente."
+      },
+      {
+        "icon": "⌕",
+        "title": "Captação própria",
+        "text": "Prontos e seminovos com formulário para o dono vender pela Place."
+      },
+      {
+        "icon": "◷",
+        "title": "Ajuste rápido",
+        "text": "Um corretor beta testa, aponta o logo e corrigimos no mesmo dia."
+      }
+    ],
+    "narration": "A principal diferença não é apenas ter muitas funcionalidades. É ter um sistema adaptado ao trabalho da Place. O fluxo de distribuição considera regras da operação, os dados ficam em nome da empresa, os leads são compartilhados entre site, corretor e gerente, e os ajustes podem ser feitos com rapidez. O objetivo é evitar que a Place tenha de mudar todo o seu processo para caber em um software genérico."
+  },
+  {
+    "id": 9,
+    "type": "reasons",
+    "kicker": "POR QUE ESTE PROJETO",
+    "title": "O caminho com menos risco para a Place",
+    "description": "Uma evolução construída com quem conhece a rotina comercial.",
+    "cards": [
+      {
+        "number": "01",
+        "title": "Já existe e funciona",
+        "text": "A Place não paga para construir, só para implantar e manter."
+      },
+      {
+        "number": "02",
+        "title": "Feito por quem vive o problema",
+        "text": "Um corretor da Place no time, que usa a fila, o grupo e o book todo dia."
+      },
+      {
+        "number": "03",
+        "title": "Evolui junto com a Place",
+        "text": "Quem usa pede, a equipe ajusta. Vídeos de treinamento e foto de perfil já estão planejados."
+      },
+      {
+        "number": "04",
+        "title": "Continuidade garantida",
+        "text": "Código testado, documentado e no nome da Place, mesmo se o contrato acabar."
+      }
+    ],
+    "narration": "O projeto procura reduzir o risco de implantação em quatro aspectos. Ele já existe e pode ser demonstrado. Foi construído com participação de quem conhece a rotina comercial. Pode receber ajustes conforme a equipe utiliza o sistema. E a proposta inclui documentação, testes e permanência do código no nome da Place. Em vez de começar do zero, a empresa parte de algo que já está em utilização experimental."
+  },
+  {
+    "id": 10,
+    "type": "comparison",
+    "kicker": "COMPARAÇÃO",
+    "title": "Feito no jeito da Place, não o contrário",
+    "description": "Compare o que cada alternativa representa para a operação.",
+    "columns": [
+      "Alternativa",
+      "O que a Place recebe"
+    ],
+    "rows": [
+      [
+        "CRM pronto",
+        "Sistema genérico; a Place se adapta a ele"
+      ],
+      [
+        "Contratar um dev",
+        "Começa do zero, meses até funcionar"
+      ],
+      [
+        "Sistema sob medida de fora",
+        "Empresa de fora aprendendo o negócio"
+      ],
+      [
+        "Esta plataforma",
+        "Pronta, testada e no processo da Place"
+      ]
+    ],
+    "narration": "Ao comparar as alternativas, um CRM pronto costuma exigir adaptação do processo ao sistema. Contratar um desenvolvedor para começar do zero gera um período de construção e aprendizado. Uma empresa externa também precisa conhecer a operação. Já a plataforma apresentada nasce do processo da Place e possui uma primeira versão funcional. Essa diferença é especialmente importante para o tempo de implantação."
+  },
+  {
+    "id": 11,
+    "type": "automation",
+    "kicker": "O QUE VEM DEPOIS",
+    "title": "Menos trabalho manual a cada etapa",
+    "description": "Primeiro o que tira trabalho da recepção e dos gerentes. Novos perfis de acesso entram depois do piloto.",
+    "cards": [
+      {
+        "icon": "▣",
+        "title": "Books e tabelas em dia",
+        "today": "Hoje: o sistema já aponta book ou tabela desatualizados, mas a conferência é feita à mão.",
+        "next": "Próximo passo: conferir pastas das construtoras todo dia e avisar quando a tabela vencer."
+      },
+      {
+        "icon": "♧",
+        "title": "Roleta automática",
+        "today": "Hoje: a recepção marca a chegada e aperta para distribuir. O caderno já sai.",
+        "next": "Próximo passo: o corretor marca presença pelo celular e a distribuição roda sozinha no horário."
+      },
+      {
+        "icon": "▥",
+        "title": "Power BI e planilhas",
+        "today": "Hoje: leads, visitas e VGV confirmado já ficam guardados no sistema.",
+        "next": "Próximo passo: Power BI lê direto do sistema, sem ninguém digitar de novo."
+      }
+    ],
+    "narration": "O projeto tem evoluções planejadas, e é importante separar o que já funciona do que vem depois. Hoje, o sistema já ajuda a identificar books desatualizados, registra a chegada dos leads e armazena os dados comerciais. As próximas etapas incluem conferir pastas automaticamente, distribuir leads a partir da presença marcada pelo corretor e conectar os registros ao Power BI. Essas melhorias serão avaliadas depois do piloto."
+  },
+  {
+    "id": 12,
+    "type": "plans",
+    "kicker": "INVESTIMENTO",
+    "title": "Duas opções para a fase oficial",
+    "description": "Valor fixo: não cresce a cada corretor contratado. O contrato entra quando o sistema for para o domínio oficial.",
+    "plans": [
+      {
+        "name": "Recomendado",
+        "monthly": "R$ 2.000",
+        "setup": "R$ 4.000",
+        "hours": "15 h",
+        "detail": "Suporte em horário comercial"
+      },
+      {
+        "name": "Completo",
+        "monthly": "R$ 3.000",
+        "setup": "R$ 6.000",
+        "hours": "25 h",
+        "detail": "Reunião mensal de resultados com a diretoria"
+      }
+    ],
+    "infra": {
+      "range": "R$ 840–940",
+      "text": "Hospedagem no nome da Place (R$ 300–400) e ferramenta de IA do desenvolvimento (cerca de R$ 540)."
+    },
+    "narration": "Para a fase oficial, são propostas duas opções de contrato. O plano recomendado prevê quatro mil reais de implantação e dois mil reais mensais, com quinze horas de melhorias. O plano completo prevê seis mil reais de implantação e três mil reais mensais, com vinte e cinco horas de melhorias e uma reunião mensal de resultados. Separadamente, a hospedagem e as ferramentas estão estimadas entre oitocentos e quarenta e novecentos e quarenta reais por mês. O valor de manutenção não aumenta por corretor."
+  },
+  {
+    "id": 13,
+    "type": "costs",
+    "kicker": "COMPARAÇÃO DE VALORES",
+    "title": "Quanto custa cada caminho",
+    "description": "Valores aproximados do material original. Não representam cotações atuais.",
+    "columns": [
+      "Alternativa",
+      "Quanto custa",
+      "O que a Place recebe"
+    ],
+    "rows": [
+      [
+        "CRM pronto (ex.: Loft/CRM)",
+        "R$ 65 por usuário/mês; 50 corretores = R$ 3.250",
+        "Sistema genérico; cresce a cada contratação"
+      ],
+      [
+        "Dev júnior contratado",
+        "R$ 3.000 a R$ 6.000/mês",
+        "Aprende o sistema e o negócio do zero"
+      ],
+      [
+        "Sistema novo sob medida",
+        "R$ 5.000 a R$ 20.000 para construir",
+        "Meses até ficar pronto, mais manutenção"
+      ],
+      [
+        "Esta plataforma",
+        "R$ 2.000/mês + R$ 840 a R$ 940 de hospedagem e ferramentas",
+        "Pronta, testada e no processo da Place"
+      ]
+    ],
+    "narration": "O PDF também traz uma comparação aproximada dos custos. Um CRM cobrado por usuário pode aumentar à medida que a equipe cresce. Um desenvolvedor contratado ou uma solução feita de fora exige investimento e tempo de construção. A plataforma da Place parte de uma versão funcional, com mensalidade fixa e hospedagem separada. Esses números são referências apresentadas no material de novembro de dois mil e vinte e seis, e não cotações atualizadas."
+  },
+  {
+    "id": 14,
+    "type": "coverage",
+    "kicker": "O QUE CADA VALOR COBRE",
+    "title": "Implantação, mensalidade e hospedagem",
+    "description": "Escopo definido para evitar dúvidas sobre responsabilidades e custos.",
+    "cards": [
+      {
+        "eyebrow": "UMA VEZ, AO VIRAR OFICIAL",
+        "title": "Implantação",
+        "bullets": [
+          "Contas de site, sistema, banco e e-mail no nome da Place",
+          "Domínio placebrokers.com.br no lugar do site atual",
+          "Cadastro inicial de empreendimentos, books e tabelas",
+          "Acessos de diretoria, gerentes e corretores",
+          "Treinamento de gerentes e recepção (2 encontros)"
+        ]
+      },
+      {
+        "eyebrow": "TODO MÊS",
+        "title": "Mensalidade",
+        "bullets": [
+          "Correção de erros",
+          "Acompanhar se o site e o sistema estão no ar",
+          "Atualizações de segurança",
+          "Suporte pelo WhatsApp em horário comercial",
+          "Horas de melhorias pedidas pela Place: 15 h ou 25 h"
+        ]
+      },
+      {
+        "eyebrow": "PAGO PELA PLACE",
+        "title": "Hospedagem e ferramentas",
+        "bullets": [
+          "Site (Vercel)",
+          "Sistema e API (Render)",
+          "Banco de dados com backup diário (Supabase)",
+          "Envio de e-mails (Resend) e domínio no nome da Place",
+          "Ferramenta de IA para desenvolvimento (Claude Max)"
+        ]
+      }
+    ],
+    "footnote": "Fora do pacote: funcionalidades grandes novas, como integração com portais ou app nas lojas, são orçadas à parte.",
+    "narration": "É importante entender o que compõe cada valor. A implantação cobre a passagem do protótipo para o domínio oficial, contas da Place, acessos, cadastros e treinamento. A mensalidade cobre suporte, correções, segurança e uma quantidade definida de horas de melhoria. Hospedagem e ferramentas são pagas pela Place e incluem site, API, banco de dados, e-mail e ferramentas de desenvolvimento. Funcionalidades grandes, como novas integrações com portais ou publicação de aplicativo nas lojas, ficam fora do pacote e precisam de orçamento separado."
+  },
+  {
+    "id": 15,
+    "type": "timeline",
+    "kicker": "PRÓXIMOS PASSOS",
+    "title": "Começar pequeno, testar e só depois virar oficial",
+    "description": "Evolução gradual, com validação do uso antes da expansão.",
+    "steps": [
+      {
+        "when": "AGORA",
+        "title": "Piloto interno",
+        "text": "Um time usando no dia a dia e anotando casos de uso."
+      },
+      {
+        "when": "DEPOIS",
+        "title": "Toda a Place",
+        "text": "Apresentação geral e ajustes pedidos pelos diretores."
+      },
+      {
+        "when": "PRÓXIMO SEMESTRE",
+        "title": "Piloto ampliado",
+        "text": "Mais equipes, já com os ajustes do primeiro piloto."
+      },
+      {
+        "when": "QUANDO ESTIVER PRONTO",
+        "title": "Domínio oficial",
+        "text": "placebrokers.com.br nos planos pagos, com o contrato."
+      }
+    ],
+    "narration": "A proposta não é ligar tudo de uma vez. Primeiro, um time faz um piloto interno e registra o que funciona e o que precisa mudar. Depois, o projeto é apresentado de forma mais ampla à Place, com ajustes solicitados pelos diretores. O piloto pode então ser ampliado para mais equipes. A passagem ao domínio oficial acontece quando a operação estiver pronta e houver aprovação do contrato."
+  },
+  {
+    "id": 16,
+    "type": "pilot",
+    "kicker": "O PILOTO",
+    "title": "30 dias, uma equipe e três números",
+    "description": "Avaliar o impacto no trabalho diário antes de uma implantação mais ampla.",
+    "cards": [
+      {
+        "number": "01",
+        "title": "Tempo até o primeiro contato",
+        "text": "Quanto tempo o lead espera até o corretor ligar ou chamar."
+      },
+      {
+        "number": "02",
+        "title": "Leads atendidos no mesmo dia",
+        "text": "De cada 10 leads que chegam, quantos recebem retorno no dia."
+      },
+      {
+        "number": "03",
+        "title": "Uso diário pela equipe",
+        "text": "Quantos corretores da equipe abrem o sistema todo dia."
+      }
+    ],
+    "footnote": "Para decidir hoje: servidor sempre ligado, por cerca de R$ 40 por mês, ou plano gratuito, com espera de uns 30 segundos na primeira abertura do dia.",
+    "narration": "O piloto proposto dura trinta dias com uma equipe. Em vez de depender apenas de impressões, vamos acompanhar três indicadores objetivos: quanto tempo o cliente espera pelo primeiro contato, quantos leads recebem retorno no mesmo dia e quantos corretores usam o sistema diariamente. O material também aponta uma escolha operacional inicial: manter o servidor sempre ligado, com custo estimado em cerca de quarenta reais ao mês, ou utilizar um plano gratuito com possível espera na primeira abertura."
+  },
+  {
+    "id": 17,
+    "type": "decisions",
+    "kicker": "O QUE PEDIMOS HOJE",
+    "title": "Quatro decisões para seguir",
+    "description": "Próximas definições para iniciar a validação com segurança.",
+    "cards": [
+      {
+        "number": "01",
+        "title": "Aprovar o projeto e o plano",
+        "text": "Recomendado ou Completo, cobrado só na fase oficial. Começa com o piloto de 30 dias."
+      },
+      {
+        "number": "02",
+        "title": "Escolher a equipe piloto",
+        "text": "Um gerente e o time dele usando todo dia."
+      },
+      {
+        "number": "03",
+        "title": "Indicar um responsável",
+        "text": "Alguém da Place para cadastrar imóveis e aprovar acessos."
+      },
+      {
+        "number": "04",
+        "title": "Marcar a apresentação geral",
+        "text": "Para toda a Place, depois dos ajustes desta reunião."
+      }
+    ],
+    "narration": "Para transformar o piloto em um próximo passo concreto, precisamos de quatro decisões. Primeiro, aprovar a continuidade do projeto e escolher a opção de plano para a futura fase oficial. Segundo, definir qual gerente e equipe participarão do piloto. Terceiro, indicar uma pessoa da Place para apoiar cadastros e acessos. E, por fim, combinar a apresentação geral depois dos ajustes desta reunião. Assim, avançamos com responsabilidades claras."
+  },
+  {
+    "id": 18,
+    "type": "closing",
+    "kicker": "PLACE BROKERS",
+    "title": "Obrigado. Vamos seguir juntos?",
+    "description": "Uma plataforma construída para o jeito da Place trabalhar.",
+    "footnote": "João Victor Varela · Arthur Vinícius · Gabriel Soares · Sérgio Bandeira · Sofia Viana",
+    "narration": "Obrigado pela atenção. Nosso objetivo é oferecer à Place uma plataforma que reúna atendimento, gestão e resultados, construída a partir da operação que a equipe conhece. Estamos prontos para ouvir as observações da diretoria e definir os próximos passos do piloto. Vamos seguir juntos?"
+  }
+]
